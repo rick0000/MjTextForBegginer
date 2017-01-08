@@ -85,12 +85,12 @@
         ![順子NG](pai-images/man2-66-90-s.png)
         ![順子NG](pai-images/pin3-66-90-s.png)
         ![順子NG](pai-images/man4-66-90-s.png)
-        萬子と筒子が混ざっているためNG
+        2,3,4と3つ続きの数字だが、萬子と筒子が混ざっているためNG
         
         ![順子NG](pai-images/man8-66-90-s.png)
         ![順子NG](pai-images/man9-66-90-s.png)
         ![順子NG](pai-images/man1-66-90-s.png)
-        数字が9から1へ一巡している。9と1はつながらないためNG
+        すべて萬子だが、数字が9から1へ一巡している。9と1はつながらないためNG
 
         ![順子NG](pai-images/ji1-66-90-s.png)
         ![順子NG](pai-images/ji2-66-90-s.png)

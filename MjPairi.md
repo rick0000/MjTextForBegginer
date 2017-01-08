@@ -61,7 +61,82 @@
 
 
 ## 牌理の部
-まだ
+1. 上がりの形
+
+    麻雀は牌を組み合わせて上がりの形を作るゲームです。基本は3枚を1グループとして組み合わせます。グループの種類には、2種類あります。
+
+* 数字を3つ連番で集める 順子（シュンツ）
+    同じ種類で3つ続きの数字の牌を集めたグループです。
+    違う種類を含んだり、数字が一巡するものは順子とは認められません。
+    * OKな例
+
+        ![順子](pai-images/man4-66-90-s.png)
+        ![順子](pai-images/man5-66-90-s.png)
+        ![順子](pai-images/man6-66-90-s.png)
+        すべてが萬子で、なおかつ4,5,6と3つ続きの数字の牌のためOK。
+
+        ![順子](pai-images/sou1-66-90-s.png)
+        ![順子](pai-images/sou2-66-90-s.png)
+        ![順子](pai-images/sou3-66-90-s.png)
+        すべてが索子で、なおかつ1,2,3と3つ続きの数字の牌ためOK。
+
+    * NGな例
+
+        ![順子NG](pai-images/man2-66-90-s.png)
+        ![順子NG](pai-images/pin3-66-90-s.png)
+        ![順子NG](pai-images/man4-66-90-s.png)
+        萬子と筒子が混ざっているためNG
+        
+        ![順子NG](pai-images/man8-66-90-s.png)
+        ![順子NG](pai-images/man9-66-90-s.png)
+        ![順子NG](pai-images/man1-66-90-s.png)
+        数字が9から1へ一巡している。9と1はつながらないためNG
+
+        ![順子NG](pai-images/ji1-66-90-s.png)
+        ![順子NG](pai-images/ji2-66-90-s.png)
+        ![順子NG](pai-images/ji3-66-90-s.png)
+        字牌では順子はできないためNG
+
+        ![順子NG](pai-images/ji6-66-90-s.png)
+        ![順子NG](pai-images/ji5-66-90-s.png)
+        ![順子NG](pai-images/ji7-66-90-s.png)
+        字牌では順子はできないためNG
+
+
+* 同じ牌を3つ集める 刻子（コーツ）
+    同じ牌を3つ集めたグループです。
+    数牌、字牌どちらでも成立します。
+
+    * OKな例
+
+        ![刻子](pai-images/man8-66-90-s.png)
+        ![刻子](pai-images/man8-66-90-s.png)
+        ![刻子](pai-images/man8-66-90-s.png)
+
+        ![刻子](pai-images/pin3-66-90-s.png)
+        ![刻子](pai-images/pin3-66-90-s.png)
+        ![刻子](pai-images/pin3-66-90-s.png)
+
+        ![刻子](pai-images/ji1-66-90-s.png)
+        ![刻子](pai-images/ji1-66-90-s.png)
+        ![刻子](pai-images/ji1-66-90-s.png)
+
+        ![刻子](pai-images/ji5-66-90-s.png)
+        ![刻子](pai-images/ji5-66-90-s.png)
+        ![刻子](pai-images/ji5-66-90-s.png)
+
+
 
 ## 役の部
 まだ
+
+
+
+
+
+---
+
+### 牌の画像出典
+麻雀豆腐様が公開している素材を利用させて頂きました。
+
+http://majandofu.com/mahjong-images
